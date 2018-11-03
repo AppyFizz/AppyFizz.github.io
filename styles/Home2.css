@@ -1,5 +1,5 @@
 .Heading_1 {
-    color: #453c3b;
+    color: #008080;
     font-family: 'ArialMT', 'Arial', 'sans-serif';
     font-size: 20px;
     font-style: normal;
@@ -20,7 +20,7 @@
     text-transform: none;
 }
 .Title {
-    color: #969696;
+    color: #008080;
     font-family: 'ArialMT', 'Arial', 'sans-serif';
     font-size: 36px;
     font-style: normal;
@@ -66,11 +66,11 @@
     padding: 4px;
 }
 a {
-    color: #453c3b;
+    color: #008080;
     text-decoration: underline;
 }
 a:visited {
-    color: #666666;
+    color: #008080;
     text-decoration: underline;
 }
 a:hover {
